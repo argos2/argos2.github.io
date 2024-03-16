@@ -27,11 +27,11 @@ entries:
 
   - title: info
     entries:
-      - title: rss
-        url: feed.xml
       - title: about
         url: about
+      - title: rss
+        url: feed.xml
       - title: "site maintained by a human (mostly)"
-      - title: no-style-please theme by riggraz
+      - title: theme by riggraz
         url: https://github.com/riggraz/no-style-please
 
