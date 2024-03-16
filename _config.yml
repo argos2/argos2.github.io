@@ -5,8 +5,8 @@ url: https://argos2.github.io # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   robots<br>
-  and humans<br>
-  a brave<br>
+  & humans<br>
+  a (brave)<br>
   new world<br>
 
 permalink: /:slug.html
