@@ -17,13 +17,12 @@ entries:
       show_more_text: See more posts...
       show_more_url: example2-archive.html
   
-  - title: another list
+  - title: links
     entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
+      - title: cool discoveries
+        url: coollinks
+      - title: useful resources
+        url: usefullinks
 
   - title: info
     entries:
