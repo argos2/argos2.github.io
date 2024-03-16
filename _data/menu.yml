@@ -34,6 +34,6 @@ entries:
   - title: info
     entries:
       - title: created by a human
-      - title: theme by riggraz
+      - title: "theme by" riggraz
         url: https://github.com/riggraz/no-style-please
       - title: "used by me"
