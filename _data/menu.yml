@@ -33,7 +33,6 @@ entries:
 
   - title: info
     entries:
-      - title: created by a human
       - title: theme by riggraz
         url: https://github.com/riggraz/no-style-please
-      - title: "maintained by a human"
+      - title: "site maintained by a human"
