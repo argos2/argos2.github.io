@@ -1,6 +1,6 @@
 ---
 layout: page
-title: cool links
+title: cool discoveries
 ---
 
 This is an example page!
