@@ -29,6 +29,8 @@ entries:
     entries:
       - title: rss
         url: feed.xml
+      - title: about
+        url: about
       - title: "site maintained by a human (mostly)"
       - title: no-style-please theme by riggraz
         url: https://github.com/riggraz/no-style-please
