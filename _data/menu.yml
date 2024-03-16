@@ -7,7 +7,7 @@ entries:
     post_list:
       limit: 5
       show_more: true
-      show_more_text: See archive...
+      show_more_text: View archive...
       show_more_url: archive.html
 
   - title: posts by category
@@ -16,9 +16,6 @@ entries:
       show_more: true
       show_more_text: See more posts...
       show_more_url: example2-archive.html
-
-  - title: rss
-    url: feed.xml
   
   - title: another list
     entries:
@@ -33,3 +30,5 @@ entries:
       - title: "site maintained by a human"
       - title: no-style-please theme by riggraz
         url: https://github.com/riggraz/no-style-please
+      - title: rss
+        url: feed.xml
